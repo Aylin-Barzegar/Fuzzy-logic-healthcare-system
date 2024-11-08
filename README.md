@@ -64,14 +64,13 @@ The Health Monitoring System is a Python-based application that uses fuzzy logic
 The codebase is organized for modularity and readability:
 
 ```
-health-monitoring-system/
+Fuzzy-logic-healthcare-system-project/
 |
 ├── main.py             # Main file for GUI setup and program execution
 ├── fuzzy_logic.py      # Defines fuzzy logic variables, rules, and severity calculation
 ├── validation.py       # Handles input validation and error handling
 ├── plotting.py         # Manages the plotting of membership functions
-├── style.py            # Stores styling configurations for the GUI
-└── README.md           # Project documentation
+└── style.py            # Stores styling configurations for the GUI
 ```
 
 ## Example Scenarios
