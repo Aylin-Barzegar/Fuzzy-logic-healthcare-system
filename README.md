@@ -1,2 +1,0 @@
-# Fuzzy-logic-healthcare-system
- 
